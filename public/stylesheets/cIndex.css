@@ -1,0 +1,33 @@
+.jumbotron {
+     background: none;
+}
+
+.thumbnail {
+    background-color: rgba(238, 238, 238, 0.5);
+    
+}
+.container h1 {
+    margin-top: 0;
+    padding-bottom: 20px;
+}
+
+.container p {
+    margin-bottom: 0;
+}
+
+/*.container h4 {*/
+/*    color: white;*/
+/*}*/
+
+
+.intro {
+    background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
