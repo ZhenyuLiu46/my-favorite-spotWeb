@@ -60,11 +60,11 @@ body {
   animation-delay: 20s; 
 }
 .slideshow li:nth-child(4) { 
-  background-image: url(http://i.imgur.com/2LSMCmJ.jpg);
+  background-image: url(https://images.pexels.com/photos/63553/pexels-photo-63553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
   animation-delay: 30s; 
 }
 .slideshow li:nth-child(5) { 
-  background-image: url(http://i.imgur.com/TVGe0Ef.jpg);
+  background-image: url(https://images.pexels.com/photos/261091/pexels-photo-261091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
   animation-delay: 40s; 
 }
 
